@@ -9,7 +9,7 @@ Alexander Graening agraening@ucla.edu
 
 Brian Wang wangbri1@ucla.edu
 
-Ziqi Wang wangzq312@ucla.edu
+Ziqi Wang wangzq312@g.ucla.edu
 
 Wojciech Romaszkan wromaszkan@ucla.edu
 
@@ -21,14 +21,18 @@ July 14th - Morning
 * Introduction to Algorithms
 * Data Structures
 * Search Algorithms
-* Sort Algorithms
 
 July 14th - Afternoon
+
+* Search Algorithms (Continued)
+* Sort Algorithms
+
+July 15th - Morning
 
 * Introduction to Graphs
 * Algorithmic Techniques
 
-July 15th
+July 15th - Afternoon
 
-* Mini-Project & Office Hours
+* Mini-Projects, Exercises, and Office Hours
 
