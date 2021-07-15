@@ -1,4 +1,4 @@
-#Functions for sorting exercise
+# Functions for sorting exercise
 
 def cmp(a, b):
     return (a > b) - (a < b) 
@@ -13,7 +13,9 @@ def bubbleSort(nums):
     :rtype: List[int]
     """
     #################################
+
     # Selection Sort
+
     n = len(nums)
     if n<=1:
         return nums
@@ -31,18 +33,7 @@ def bubbleSort(nums):
         temp = nums[i]
         nums[i] = nums[smallest_idx]
         nums[smallest_idx] = temp
-        
-    return nums
-
-        
-        
-        
-     
-        
-        
-    
-    
-    # Write your code here
+ 
     
     #################################
     return nums
